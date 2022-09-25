@@ -1,0 +1,8 @@
+{
+    "tutorials": [
+      { "id": 1, "title": "Tutorial 1", "description": "This is our first tutorial", "published": true },
+      { "id": 2, "title": "Tutorial 2", "description": "This is our second tutorial", "published": true },
+      { "id": 3, "title": "Tutorial 3", "description": "This is our third tutorial", "published": false },
+      { "id": 4, "title": "Tutorial 4", "description": "This is our fourth tutorial", "published": false }
+    ]
+}
